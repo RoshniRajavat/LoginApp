@@ -1,0 +1,9 @@
+{
+    "name": "login-app",
+    "version": "0.0.1",
+    "description": "my weekday app",
+    "dependencies": {
+        "express": "^4.15.2",
+        "jsonwebtoken": "^8.3.0"
+    }
+}
